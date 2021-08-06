@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../skg-biz/skg-biz.iml" filepath="$PROJECT_DIR$/../skg-biz/skg-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skg-core/skg-core.iml" filepath="$PROJECT_DIR$/../skg-core/skg-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skg-data/skg-data.iml" filepath="$PROJECT_DIR$/../skg-data/skg-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skg-manager/skg-manager.iml" filepath="$PROJECT_DIR$/../skg-manager/skg-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../skg-saas/skg-saas.iml" filepath="$PROJECT_DIR$/../skg-saas/skg-saas.iml" />
+    </modules>
+  </component>
+</project>
